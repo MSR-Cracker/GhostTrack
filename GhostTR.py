@@ -279,7 +279,7 @@ def run_banner():
          .-.
        .'   `.          {Wh}--------------------------------
        :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
-       : o    `.        {Wh}|       {Gr}@CODE BY HUNXBYTS      {Wh}|
+       : o    `.        {Wh}|       {Gr}@MSR_Cracker      {Wh}|
       :         ``.     {Wh}--------------------------------
      :             `.
     :  :         .   `.
